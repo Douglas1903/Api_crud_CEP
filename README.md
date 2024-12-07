@@ -38,3 +38,15 @@ Este projeto é um exemplo de um **CRUD focado na operação GET**, desenvolvido
 1. Clone este repositório:  
    ```bash
    git clone <URL_DO_REPOSITORIO>
+   
+2. Configure as dependências no arquivo `pom.xml` (Maven) ou `build.gradle` (Gradle).
+
+3. Compile e execute o projeto.
+
+4. Insira um CEP válido para consultar os dados de endereço via API ViaCEP.  
+   Os dados retornados serão exibidos como objetos Java convertidos do JSON.
+
+---
+
+Este projeto é ideal para quem deseja aprender sobre **integração de APIs RESTful**, manipulação de **JSON com Jackson** e boas práticas em **Java**. 🚀
+
