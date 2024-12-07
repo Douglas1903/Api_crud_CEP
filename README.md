@@ -1,10 +1,11 @@
-﻿#CRUD de GET em Java com Jackson e API ViaCEP
-Este projeto é um exemplo de um CRUD focado na operação GET, desenvolvido em Java, utilizando a biblioteca Jackson para manipulação de dados JSON e a API pública ViaCEP para consultar endereços a partir de um CEP. O objetivo é demonstrar como integrar APIs RESTful, manipulando e convertendo dados JSON em objetos Java.
+﻿# CRUD de GET em Java com Jackson e API ViaCEP
+ 
+## Este projeto é um exemplo de um CRUD focado na operação GET, desenvolvido em Java, utilizando a biblioteca Jackson para manipulação de dados JSON e a API pública ViaCEP para consultar endereços a partir de um CEP. O objetivo é demonstrar como integrar APIs RESTful, manipulando e convertendo dados JSON em objetos Java.
 
-Funcionalidades Principais
-Consulta de Dados (GET):
+### Funcionalidades Principais
+**Consulta de Dados (GET):
 Realiza requisições à API ViaCEP e consome os dados no formato JSON.
-Desserializa as respostas JSON em objetos Java utilizando Jackson.
+Desserializa as respostas JSON em objetos Java utilizando Jackson.**
 Serialização e Desserialização de JSON:
 Converte objetos Java em JSON e vice-versa, garantindo uma integração eficiente entre sistemas.
 Gestão de Recursos:
