@@ -21,6 +21,7 @@ Este projeto é um exemplo de um **CRUD focado na operação GET**, desenvolvido
 ## Tecnologias Utilizadas
 - **Java:** Linguagem principal para a lógica do projeto.
 - **Jackson:** Biblioteca para processamento e manipulação de JSON.
+- **ObjectMapper:**  Biblioteca para processamento e manipulação de JSON
 - **REST API:** Integração com a API pública ViaCEP para dados de endereços.
 - **Maven/Gradle:** Gerenciadores de dependências e automação do build.
 
